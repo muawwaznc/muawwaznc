@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 - **Email**: [muawwaznc@gmail.com](mailto:muawwaznc@gmail.com)
 - **Phone**: +92 328 4535 624
 - **LinkedIn**: [muawwaznc](https://www.linkedin.com/in/muawwaznc/)
-- **Portfolio**: [muawwaznc.github.io/Portfolio](https://muawwaznc.github.io/Portfolio)
-- **Hire Me**: [Hire/muawwaznc](https://www.upwork.com/fl/~01c88a949deee755d8)
+- **Portfolio**: [muawwaznc/Portfolio](https://muawwaznc.github.io/Portfolio)
+- **Hire Me**: [hire/muawwaznc](https://www.upwork.com/fl/~01c88a949deee755d8)
 
 ### 😄 Pronouns: he/him
 
